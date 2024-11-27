@@ -1,5 +1,11 @@
-<h2 align="center">Hi 👋, I'm Bosco</h2>
+<h3 align="center">Hi 👋, I'm Bosco</h2>
 <h4 align="center">A passionate software developer from Taiwan</h4>
+
+```
+class Engineer:
+    def work(self, ☕) -> 💻:
+        return clean_code
+```
 
 - 🌱 I’m currently learning Java and big data tools
 
