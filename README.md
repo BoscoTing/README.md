@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Bosco</h1>
-<h3 align="center">A passionate software developer from Taiwan</h3>
+<h2 align="center">Hi 👋, I'm Bosco</h2>
+<h4 align="center">A passionate software developer from Taiwan</h4>
 
-- 🌱 I’m currently learning **Java and big data tools**
+- 🌱 I’m currently learning Java and big data tools
 
-- 📝 I regularly write articles on [https://boscoting.github.io/](https://boscoting.github.io/)
+- 📝 I regularly write articles on my [**Blog**](https://boscoting.github.io/)
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
@@ -13,10 +13,8 @@
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
 
-Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Bosco Ting) 
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BoscoTing&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/BoscoTing?theme=nord)
+
+Connect with me on [LinkedIn](https://linkedin.com/in/BoscoTing)
