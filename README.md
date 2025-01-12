@@ -9,7 +9,7 @@ class Engineer:
 
 - 🌱 I’m currently learning Java and big data tools
 
-- 📝 I regularly write articles on my [**Blog**](https://boscoting.github.io/)
+- 📝 I keep some learning notes on my [**Blog**](https://boscoting.github.io/)
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
